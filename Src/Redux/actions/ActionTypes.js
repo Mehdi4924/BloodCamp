@@ -1,0 +1,16 @@
+export const REGISTERDONOR = 'REGISTERDONOR';
+export const CLEAR_REGISTRATION_DATA = 'CLEAR_REGISTRATION_DATA';
+export const ADD_VITALS = 'ADD_VITALS';
+export const ADD_QUESTIONAIRE = 'ADD_QUESTIONAIRE';
+export const ADD_CITIES = 'ADD_CITIES';
+export const ADD_GROUPS = 'ADD_GROUPS';
+export const ADD_CAMPS = 'ADD_CAMPS';
+export const ADD_QUESTIONS = 'ADD_QUESTIONS';
+export const AUTH_USER = 'AUTH_USER';
+export const POST_PRICK = 'POST_PRICK';
+export const CLEAR_AUTH = 'CLEAR_AUTH';
+// export const EDIT_QUESTIONAIRE = 'EDIT_QUESTIONAIRE';
+// export const CLEAR_QUESTIONAIRE = 'CLEAR_QUESTIONAIRE';
+// export const ADD_VITAL_USERS = 'ADD_VITAL_USERS';
+// export const EDIT_VITALS = 'EDIT_VITALS';
+// export const CLEAR_VITALS = 'CLEAR_VITALS';
